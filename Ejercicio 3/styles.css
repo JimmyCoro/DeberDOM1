@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(8, 119, 88);
+    color: white;
+    text-align: center;
+    align-items: center;
+
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+li {
+    background-color: white;
+    color: rgb(8, 119, 88);
+    margin: 10px;
+    border-radius: 5px;
+}

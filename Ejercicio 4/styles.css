@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#miFormulario{
+    display: grid;
+    justify-content: center;
+    background-color: rgb(213, 255, 179);
+    margin: 20px;
+    padding: 20px;
+}
+.item{
+    padding: 10px;
+}
+
+.item 
